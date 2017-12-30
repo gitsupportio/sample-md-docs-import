@@ -5,4 +5,4 @@ Three page.
 - [Three point one](./one.md)
 - [Three point two](./two.md)
 
-[Back to home](../readme.md)
+[Back to home](../README.md)

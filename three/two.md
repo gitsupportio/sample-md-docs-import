@@ -2,7 +2,7 @@
 
 Three point two.
 
-- [Three](./readme.md)
+- [Three](./README.md)
 - [Three point one](./one.md)
 
-[Back to home](../readme.md)
+[Back to home](../README.md)

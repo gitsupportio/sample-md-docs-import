@@ -2,4 +2,4 @@
 
 Another sample documentation page.
 
-[Back to home](./readme.md)
+[Back to home](./README.md)
